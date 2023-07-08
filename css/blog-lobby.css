@@ -1,0 +1,36 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+}
+
+.title {
+    font-size: 36px;
+    color: #fff;
+    margin-bottom: 40px;
+}
+
+.blog-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.blog-list li {
+    margin-bottom: 20px;
+}
+
+.blog-list a {
+    color:#e70139; 
+    font-size:40px;
+    text-decoration: none;
+}
+
+.blog-list a:hover {
+    color: #e70139;
+}
