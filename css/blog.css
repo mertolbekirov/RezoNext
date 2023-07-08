@@ -1,0 +1,28 @@
+body {
+    background-color: #0B0C0E;
+    color: #fff;
+    font-size: 40px;
+    font-family:'Lato', sans-serif;
+}
+
+.container {
+    padding: 0 15px;
+}
+
+.title {
+    font-size: 3rem;
+    color: #fff;
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+h2{
+    color: #fff;
+    font-size: 38px;
+    margin:18px
+}
+
+.container p {
+    font-size:20px;
+    margin:20px
+}
